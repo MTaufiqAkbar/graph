@@ -44,19 +44,19 @@ See Full Documentation Glassfish : [Doc Glassfish 4](https://javaee.github.io/gl
 
 Configure Script To Connect Database PostgreSQL Server in File "config.json" at /GraphofRelation/resources/data/config.json
 
-Example Default Config :
+**Example Default Config :**
 
-•	host = "IP database PostgreSQL server"
+    • host = "IP database PostgreSQL server"
 
-•	port = "port database"
+    • port = "port database"
 
-•	dbname = "the name of database"
+    • dbname = "the name of database"
 
-•	username = "username to access database"
+    • username = "username to access database"
 
-•	password = "password to access database"
+    • password = "password to access database"
 
-•	pathjsonfile = "folder location where json file is stored" (normally it doesn't need to be changed)
+    • pathjsonfile = "folder location where json file is stored" (normally it doesn't need to be changed)
 
-** Examples Output Graph of Relation :
+**Examples Output Graph of Relation :**
 
