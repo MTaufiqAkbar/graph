@@ -46,6 +46,8 @@ Configure Script To Connect Database PostgreSQL Server in File "config.json" at 
 
 **Example Default Config :**
 
+![config](https://user-images.githubusercontent.com/40910746/46299692-1c15ef80-c5cc-11e8-9c7b-8befc9891e74.PNG)
+
     • host = "IP database PostgreSQL server"
 
     • port = "port database"
@@ -58,5 +60,13 @@ Configure Script To Connect Database PostgreSQL Server in File "config.json" at 
 
     • pathjsonfile = "folder location where json file is stored" (normally it doesn't need to be changed)
 
-**Examples Output Graph of Relation :**
+### **Example Output Graph of Relation :**
+
+![gambar 1](https://user-images.githubusercontent.com/40910746/46299773-4a93ca80-c5cc-11e8-9b8d-1d83883ef5bc.PNG)
+
+![gambar 2](https://user-images.githubusercontent.com/40910746/46299795-5bdcd700-c5cc-11e8-9d8c-c119b97d212d.PNG)
+
+![gambar 3](https://user-images.githubusercontent.com/40910746/46300018-e32a4a80-c5cc-11e8-8124-2b15afe1f188.PNG)
+
+![gambar 4](https://user-images.githubusercontent.com/40910746/46300027-e9b8c200-c5cc-11e8-8ebc-990355b6ff11.PNG)
 
